@@ -1,6 +1,11 @@
 # Simple Time Server
 
 A lightweight Python-based Dockerized Application that returns the current timestamp (in IST) and the request origin IP address. 
+This is wrapped in Terraform and the AWS resources are automatically deployed.
+
+##  Resources Deployed
+ECS Service + Task definition  
+Application Load Balancer
 
 ##  Features
 
