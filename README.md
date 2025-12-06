@@ -1,6 +1,6 @@
 # Simple Time Server
 
-A lightweight Python-based HTTP server that returns the current timestamp (in IST) and the request origin IP address. 
+A lightweight Python-based Dockerized Application that returns the current timestamp (in IST) and the request origin IP address. 
 
 ##  Features
 
